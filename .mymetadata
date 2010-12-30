@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="C2C-Electronic-Commerce-web"
+  id="myeclipse.1293716245593"
+  context-root="/C2C-Electronic-Commerce-web"
+  j2ee-spec="5.0"
+  archive="C2C-Electronic-Commerce-web.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
